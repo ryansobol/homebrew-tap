@@ -1,8 +1,8 @@
 require 'formula'
 
 class Gitio < GithubGistFormula
-  url 'https://gist.githubusercontent.com/ryansobol/7214372/raw/001e801e2fbe652c8839ffc14aa59a9e338ae0db/gitio'
-  sha1 'f7bf68c2bd6a5d73c00bec178c0fba940bf0d820'
-  version '1.1.1'
+  url 'https://gist.githubusercontent.com/ryansobol/7214372/raw/52ac576277df10532db8352bec21611f5bf1eb1f/gitio'
+  sha256 'eaf76ce312d30c8f680b453c75a6423173c63f5f836244c77d38db4e9b31121a'
+  version '1.2.0'
   homepage 'https://gist.github.com/ryansobol/7214372'
 end
